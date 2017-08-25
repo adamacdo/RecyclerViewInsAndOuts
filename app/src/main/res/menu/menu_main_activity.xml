@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_standard_recycler_view"
+        android:title="@string/menu_standard_recycler_view" />
+    <item
+        android:id="@+id/menu_multi_item_types_recycler_view"
+        android:title="@string/menu_multi_item_type_recycler_view" />
+    <item
+        android:id="@+id/menu_animating_recycler_view_1"
+        android:title="@string/menu_animating_recycler_view_1" />
+    <item
+        android:id="@+id/menu_animating_recycler_view_2"
+        android:title="@string/menu_animating_recycler_view_2" />
+</menu>

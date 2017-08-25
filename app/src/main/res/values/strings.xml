@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">RecyclerViewInsAndOuts</string>
+
+    <string name="cat_fact_01_title">Cat Fact #1</string>
+    <string name="cat_fact_01_description">Cats make more than 100 different sounds whereas dogs make around 10.</string>
+    <string name="cat_fact_02_title">Cat Fact #2</string>
+    <string name="cat_fact_02_description">Cats only sweat through their foot pads.</string>
+    <string name="cat_fact_03_title">Cat Fact #3</string>
+    <string name="cat_fact_03_description">Your cat recognizes your voice but just acts too cool to care (probably because they are).</string>
+    <string name="cat_fact_04_title">Cat Fact #4</string>
+    <string name="cat_fact_04_description">Hearing is the strongest of cat’s senses: They can hear sounds as high as 64 kHz — compared with humans, who can hear only as high as 20 kHz.</string>
+    <string name="cat_fact_05_title">Cat Fact #5</string>
+    <string name="cat_fact_05_description">A cat ran for mayor of Mexico City in 2013.</string>
+    <string name="cat_fact_06_title">Cat Fact #6</string>
+    <string name="cat_fact_06_description">Cats are often lactose intolerant, so stop givin\' them milk!</string>
+    <string name="cat_fact_07_title">Cat Fact #7</string>
+    <string name="cat_fact_07_description">The world’s largest cat measured 48.5 inches long.</string>
+    <string name="cat_fact_08_title">Cat Fact #8</string>
+    <string name="cat_fact_08_description">Evidence suggests domesticated cats have been around since 3600 B.C., 2,000 years before Egypt’s pharaohs.</string>
+    <string name="cat_fact_09_title">Cat Fact #9</string>
+    <string name="cat_fact_09_description">Only 24% of cats who enter animal shelters are adopted.</string>
+    <string name="cat_fact_10_title">Cat Fact #10</string>
+    <string name="cat_fact_10_description">One legend claims that cats were created when a lion on Noah’s Ark sneezed and two kittens came out.</string>
+    <string name="cat_fact_11_title">Cat Fact #11</string>
+    <string name="cat_fact_11_description">The oldest cat video on YouTube dates back to 1894 (when it was made, not when it was uploaded, duh).</string>
+    <string name="cat_fact_12_title">Cat Fact #12</string>
+    <string name="cat_fact_12_description">Adult cats only meow to communicate with humans.</string>
+    <string name="cat_fact_13_title">Cat Fact #13</string>
+    <string name="cat_fact_13_description">Cats sleep 70% of their lives.</string>
+    <string name="cat_fact_14_title">Cat Fact #14</string>
+    <string name="cat_fact_14_description">A house cat is faster than Usain Bolt.</string>
+    <string name="cat_fact_15_title">Cat Fact #15</string>
+    <string name="cat_fact_15_description">The Egyptian Mau is the oldest breed of cat.</string>
+    <string name="cat_fact_16_title">Cat Fact #16</string>
+    <string name="cat_fact_16_description">It was illegal to slay cats in ancient Egypt, in large part because they provided the great service of controlling the rat population.</string>
+    <string name="cat_fact_17_title">Cat Fact #17</string>
+    <string name="cat_fact_17_description">A cat’s carbon footprint is similar to that of a VW Bug, whereas a dog’s is more like a Hummer.</string>
+    <string name="cat_fact_18_title">Cat Fact #18</string>
+    <string name="cat_fact_18_description">A cat’s cerebral cortex (the part of the brain in charge of cognitive information processing) has 300 million neurons, compared with a dog’s 160 million.</string>
+    <string name="cat_fact_19_title">Cat Fact #19</string>
+    <string name="cat_fact_19_description">There are cats who have survived falls from over 32 stories (320 meters) onto concrete.</string>
+    <string name="cat_fact_20_title">Cat Fact #20</string>
+    <string name="cat_fact_20_description">A cat rubs against people to mark its territory.</string>
+
+    <string name="menu_standard_recycler_view">Standard</string>
+    <string name="menu_multi_item_type_recycler_view">Multiple Item Types</string>
+    <string name="menu_animating_recycler_view_1">Animating 1</string>
+    <string name="menu_animating_recycler_view_2">Animating 2</string>
+
+    <string name="toolbar_title">RecyclerView Ins and Outs</string>
+
+    <string name="button_add">Add</string>
+    <string name="button_remove">Remove</string>
+</resources>
